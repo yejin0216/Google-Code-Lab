@@ -1,4 +1,4 @@
-const recipe = [
+const data = [
     {
         "name":"구운 연어",
         "ingredients": [
@@ -35,4 +35,4 @@ const recipe = [
     }
 ];
 
-export default recipe;
+export default data;
