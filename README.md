@@ -10,3 +10,6 @@
 
  - React
  1. JSX
+ 2. Webpack&ES6
+
+ - html5
