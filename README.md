@@ -7,9 +7,3 @@
  5. Find and Fix Web App Performance Issues
  6. Your First Multi-Device Site
  7. Create Frictionless Payments
-
- - React
- 1. JSX
- 2. Webpack&ES6
-
- - html5
